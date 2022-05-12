@@ -1,0 +1,13 @@
+Non optimise
+
+Syscall : 459672
+Funcall : 328600
+Bootime : 262976
+CPU3 : 328520
+
+optimise
+
+Syscall : 328600
+Funcall : 263064
+Bootime : 262984
+CPU3 : 262984

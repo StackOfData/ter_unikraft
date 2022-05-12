@@ -1,0 +1,3 @@
+CPU3 size: 1.37GB
+Funcall size: 1.37GB
+toutes les images fonct 1.37Go
